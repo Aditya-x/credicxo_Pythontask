@@ -2,11 +2,11 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aditya-x/credicxo_Pythontask/blob/main/credicxo_task.ipynb)
 
 ## About the Project
-### Scraping product details from Amazon from given ASIN and country domain.
+Scraping product details from Amazon from given ASIN and country domain.
 
 
 ## Technology Used
-### I used Selenium, BeatifulSoup and, Request libraries to scrape the data 
+I used Selenium, BeatifulSoup and, Request libraries to scrape the data 
 
 
 ## Project Description 
